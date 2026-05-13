@@ -1,0 +1,53 @@
+# BIT 2325: Computer Graphics & Animation - Group 3
+
+## Procedural Content Generation (PCG) System
+
+### Group Members
+
+| Name | Registration Number | 
+
+| James Kennedy | SCT221-C004-0046/2023 | 
+| Hannah Mureithi | [SCT221-C004-0301/2023] | 
+| Jakes Owido | SCT221-C004-0372/2024 | 
+| Virginia Mwangi | SCT221-C004-0590/2023 | 
+
+### Project Overview
+
+A complete Procedural Content Generation system that generates realistic 3D terrain using Perlin noise, animates terrain morphing and particle flow, and introduces Biome-Aware Adaptive Noise (BAAN) as a novel research contribution.
+
+### Milestones Completed
+
+| Milestone | Topic | Status |
+
+| 1 | Representation & Foundations (Perlin noise, fBm, Vec3/Mat4) | ✅ Complete |
+| 2 | Space, Transformation & Camera (3D transforms, look-at, perspective) | ✅ Complete |
+| 3 | Rendering & Signal Processing (Phong shading, normals, textures) | ✅ Complete |
+| 4 | Efficiency & Stochastic Methods (NumPy vectorisation, LOD, Monte Carlo AO) | ✅ Complete |
+| 5 | Dynamics & Animation (Time-shifted noise, particles, camera orbit) | ✅ Complete |
+| 6 | Research Contribution (BAAN - Biome-Aware Adaptive Noise) | ✅ Complete |
+
+### Key Achievements
+
+- **53.5x speedup** using NumPy vectorisation
+- **11.6% rougher terrain** with BAAN algorithm
+- **3 distinct biome zones** (desert, plains, mountains)
+- **Smooth 30-frame animation** with mean frame change 0.01189
+- **150 physics-based particles** with Euler integration
+
+
+### Technologies Used
+
+- Python 3.x
+- NumPy (vectorised operations)
+- Matplotlib (visualisation)
+
+### Output Examples
+
+[Screenshots and GIFs will be added here]
+
+### Submission Details
+
+- **Course:** BIT 2325 - Computer Graphics & Animation
+- **Group:** Group 3
+- **Date:** April 2026
+
